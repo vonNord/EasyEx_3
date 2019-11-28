@@ -3,11 +3,11 @@
 This example is built on the example you can find in https://github.com/vonNord/EasyEx
 
 This example is going to allow the user to insert a numeric value for how much it is raining in the LeftComp, and display it in the RightComp.  
-![startup state](img/screenshot1.png)
+![Startup state](img/screenshot1.PNG)
 
 And then, when you change the number to a positive number:
 
-![Clicked state](img/screenshot2.png)
+![Clicked state](img/screenshot2.PNG)
 Here I'm only going to explain the differences:
 
 1.  App and Root is not changed at all.
