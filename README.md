@@ -80,3 +80,12 @@ Here I'm only going to explain the differences:
     1.  In the reducer function we are going to return the state overwritten by the new changes, os that is what we do ( ```rainState: action.rainAmount```). We take the new state from the action, this was created for us in the EnterRainAmount function.
 
 And that's all!
+
+
+Except that we are not really done.
+
+I made some more examples (this is number three):
+*   https://github.com/vonNord/EasyEx
+*   https://github.com/vonNord/EasyEx_2
+*   https://github.com/vonNord/EasyEx_3
+*   https://github.com/vonNord/EasyEx_4
