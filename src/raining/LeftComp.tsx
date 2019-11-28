@@ -11,7 +11,7 @@ interface IProps {
 
 const LeftComp: React.SFC<IProps> = (props: IProps) => {
 	const handleRainAmountInput = (e: React.ChangeEvent<HTMLInputElement>) => {
-		console.log("LeftComp:handleCheckboxClick", e.currentTarget.value );
+		console.log("LeftComp:handleRainAmountInput", e.currentTarget.value );
 		props.onEnterRainAmount( e.currentTarget.value );
 	};
 
